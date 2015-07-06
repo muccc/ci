@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2104.7244"
+   height="2979.9211"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="poster_treffen.svg">
+  <defs
+     id="defs4">
+    <font
+       horiz-adv-x="1024"
+       id="font4041"
+       inkscape:label="Schrift 1"
+       horiz-origin-x="0"
+       horiz-origin-y="0"
+       vert-origin-x="45"
+       vert-origin-y="90"
+       vert-adv-y="90">
+      <font-face
+         units-per-em="1024"
+         id="font-face4043"
+         font-family="SVGFont 1" />
+      <missing-glyph
+         d="M0,0h1000v1024h-1000z"
+         id="missing-glyph4045" />
+    </font>
+    <mask
+       id="keyboard-mask"
+       maskUnits="userSpaceOnUse">
+      <g
+         id="keyboard-mask-layer">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:6;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="keyboard-mask-rect-all"
+           width="1500"
+           height="1500"
+           x="0"
+           y="0" />
+        <rect
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="keyboard-mask-rect-alpha"
+           width="3.3499999"
+           height="1.33"
+           x="216.88"
+           y="279.39999"
+           rx="0"
+           ry="0" />
+        <rect
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="keyboard-mask-rect-num"
+           width="0.85000002"
+           height="1.03"
+           x="220.14999"
+           y="279.71799"
+           rx="0"
+           ry="0" />
+      </g>
+    </mask>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24748738"
+     inkscape:cx="259.84068"
+     inkscape:cy="1712.013"
+     inkscape:document-units="px"
+     inkscape:current-layer="g3140"
+     showgrid="true"
+     inkscape:window-width="1600"
+     inkscape:window-height="840"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1"
+     borderlayer="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3931"
+       empspacing="20"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       empcolor="#dbdbff"
+       empopacity="0.25098039"
+       spacingx="1px" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid3169"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Hintergrund"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,1927.5592)">
+    <rect
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.97489738px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect2986"
+       width="2133.3108"
+       height="2993.3108"
+       x="-17.306618"
+       y="-1930.426" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="162.85715"
+       y="672.36218"
+       id="text3091"
+       sodipodi:linespacing="125%"
+       transform="translate(0,-2.988066e-5)"><tspan
+         sodipodi:role="line"
+         id="tspan3095"
+         x="162.85715"
+         y="672.36218" /></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="schrift"
+     transform="translate(0,1927.5591)">
+    <text
+       xml:space="preserve"
+       style="font-size:108px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Utopia Bold;"
+       x="620"
+       y="-1777.6378"
+       id="text3071"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3073"
+         x="620"
+         y="-1777.6378"
+         style="font-size:108px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Utopia;-inkscape-font-specification:Utopia Bold;fill:#000000;">Veranstaltungen</tspan></text>
+    <g
+       id="g3140"
+       transform="translate(188,174)"
+       style="fill:#000000">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3117"
+         y="-1681.9237"
+         x="43.428574"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Utopia;-inkscape-font-specification:Utopia;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;font-size:72px;-inkscape-font-specification:'Utopia Bold';fill:#000000"
+           y="-1681.9237"
+           x="43.428574"
+           sodipodi:role="line"
+           id="tspan4015">Public Tuesday</tspan><tspan
+           style="font-weight:normal;font-size:64px;-inkscape-font-specification:Utopia;fill:#000000"
+           y="-1601.2904"
+           x="43.428574"
+           sodipodi:role="line"
+           id="tspan4122">Öffentliches Treffen des CCC München</tspan><tspan
+           style="font-weight:normal;font-size:64px;-inkscape-font-specification:Utopia;fill:#000000"
+           y="-1521.2904"
+           x="43.428574"
+           sodipodi:role="line"
+           id="tspan4126">Jeden Dienstag ab 20:00 Uhr</tspan><tspan
+           style="font-weight:normal;font-size:64px;-inkscape-font-specification:Utopia;fill:#000000"
+           y="-1441.2904"
+           x="43.428574"
+           sodipodi:role="line"
+           id="tspan4036">https://wiki.muc.ccc.de/public:treffen</tspan><tspan
+           style="font-weight:normal;font-size:48px;-inkscape-font-specification:Utopia;fill:#000000"
+           y="-1361.2904"
+           x="43.428574"
+           sodipodi:role="line"
+           id="tspan4044" /><tspan
+           style="font-weight:bold;font-size:72px;-inkscape-font-specification:'Utopia Bold';fill:#000000"
+           y="-1271.9237"
+           x="43.428574"
+           sodipodi:role="line"
+           id="tspan4046">Chaosradio München</tspan><tspan
+           style="font-weight:normal;font-size:64px;-inkscape-font-specification:Utopia;fill:#000000"
+           y="-1191.2904"
+           x="43.428574"
+           sodipodi:role="line"
+           id="tspan4050">Jeden 2. Mittwoch im Monat von 20:00 bis 21:00 Uhr</tspan><tspan
+           style="font-weight:normal;font-size:64px;-inkscape-font-specification:Utopia;fill:#000000"
+           y="-1111.2904"
+           x="43.428574"
+           sodipodi:role="line"
+           id="tspan4054">Radio Lora UKW 92,4  oder http://radio.muc.ccc.de</tspan><tspan
+           style="font-weight:normal;font-size:48px;-inkscape-font-specification:Utopia;fill:#000000"
+           y="-1031.2904"
+           x="43.428574"
+           sodipodi:role="line"
+           id="tspan4163" /><tspan
+           style="font-weight:bold;font-size:64px;-inkscape-font-specification:'Utopia Bold';fill:#000000"
+           y="-949.55707"
+           x="43.428574"
+           sodipodi:role="line"
+           id="tspan4064">Sportsfreunde der Sperrtechnik</tspan><tspan
+           style="font-weight:normal;font-size:48px;-inkscape-font-specification:Utopia;fill:#000000"
+           y="-886.12372"
+           x="43.428574"
+           sodipodi:role="line"
+           id="tspan4072">Jeden 4. Donnerstag im Monat ab 19:30 Uhr</tspan><tspan
+           style="font-weight:normal;font-size:48px;-inkscape-font-specification:Utopia;fill:#000000"
+           y="-826.12372"
+           x="43.428574"
+           sodipodi:role="line"
+           id="tspan4076">http://wiki.ssdev.org/wiki/München</tspan><tspan
+           style="font-weight:normal;font-size:48px;-inkscape-font-specification:Utopia;fill:#000000"
+           y="-766.12372"
+           x="43.428574"
+           sodipodi:role="line"
+           id="tspan4086" /><tspan
+           style="font-weight:bold;font-size:64px;-inkscape-font-specification:'Utopia Bold';fill:#000000"
+           y="-689.55707"
+           x="43.428574"
+           sodipodi:role="line"
+           id="tspan4088">Free Software Foundation Europe</tspan><tspan
+           style="font-weight:normal;font-size:48px;-inkscape-font-specification:Utopia;fill:#000000"
+           y="-626.12372"
+           x="43.428574"
+           sodipodi:role="line"
+           id="tspan4096">Jeden 2. Freitag im Monat ab 18:30 Uhr</tspan><tspan
+           style="font-weight:normal;font-size:48px;-inkscape-font-specification:Utopia;fill:#000000"
+           y="-566.12372"
+           x="43.428574"
+           sodipodi:role="line"
+           id="tspan4100">https://wiki.fsfe.org/groups/Muenchen</tspan><tspan
+           style="font-weight:normal;font-size:48px;-inkscape-font-specification:Utopia;fill:#000000"
+           y="-506.12372"
+           x="43.428574"
+           sodipodi:role="line"
+           id="tspan4108" /><tspan
+           style="font-weight:bold;font-size:64px;-inkscape-font-specification:'Utopia Bold';fill:#000000"
+           y="-429.55704"
+           x="43.428574"
+           sodipodi:role="line"
+           id="tspan3188">Freifunk</tspan><tspan
+           style="font-weight:normal;font-size:48px;-inkscape-font-specification:Utopia;fill:#000000"
+           y="-366.12372"
+           x="43.428574"
+           sodipodi:role="line"
+           id="tspan3184">Jeden letzten Mittwoch im Monat ab 20:00 Uhr</tspan><tspan
+           style="font-weight:normal;font-size:48px;-inkscape-font-specification:Utopia;fill:#000000"
+           y="-306.12372"
+           x="43.428574"
+           sodipodi:role="line"
+           id="tspan3509">http://freifunk-muenchen.de/</tspan><tspan
+           style="font-weight:normal;font-size:48px;-inkscape-font-specification:Utopia;fill:#000000"
+           y="-246.1237"
+           x="43.428574"
+           sodipodi:role="line"
+           id="tspan3182" /><tspan
+           style="font-weight:bold;font-size:64px;-inkscape-font-specification:'Utopia Bold';fill:#000000"
+           y="-169.55704"
+           x="43.428574"
+           sodipodi:role="line"
+           id="tspan4110">Alle Termine</tspan><tspan
+           style="font-weight:normal;font-size:48px;-inkscape-font-specification:Utopia;fill:#000000"
+           y="-106.1237"
+           x="43.428574"
+           sodipodi:role="line"
+           id="tspan4114">https://wiki.muc.ccc.de/kalender</tspan><tspan
+           style="font-weight:normal;font-size:64px;-inkscape-font-specification:Utopia;fill:#000000"
+           y="-46.123707"
+           x="43.428574"
+           sodipodi:role="line"
+           id="tspan4116" /><tspan
+           style="font-weight:normal;font-size:64px;-inkscape-font-specification:Utopia;fill:#000000"
+           y="13.876294"
+           x="43.428574"
+           sodipodi:role="line"
+           id="tspan4118" /></text>
+    </g>
+  </g>
+</svg>
