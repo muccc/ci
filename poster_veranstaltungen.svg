@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="poster_treffen.svg">
+   sodipodi:docname="poster_veranstaltungen.svg">
   <defs
      id="defs4">
     <font
@@ -75,8 +75,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.24748738"
-     inkscape:cx="259.84068"
-     inkscape:cy="1712.013"
+     inkscape:cx="-218.97161"
+     inkscape:cy="1703.9318"
      inkscape:document-units="px"
      inkscape:current-layer="g3140"
      showgrid="true"
@@ -208,7 +208,7 @@
            y="-1111.2904"
            x="43.428574"
            sodipodi:role="line"
-           id="tspan4054">Radio Lora UKW 92,4  oder http://radio.muc.ccc.de</tspan><tspan
+           id="tspan4054">Radio Lora UKW 92,4  oder https://radio.muc.ccc.de</tspan><tspan
            style="font-weight:normal;font-size:48px;-inkscape-font-specification:Utopia;fill:#000000"
            y="-1031.2904"
            x="43.428574"
