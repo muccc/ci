@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="379.13385"
+   height="131.10236"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="glump.pdf">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="850"
+     id="namedview3209"
+     showgrid="false"
+     units="mm"
+     inkscape:zoom="0.81172487"
+     inkscape:cx="186.02362"
+     inkscape:cy="62.007874"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="matrix(1.0157601,0,0,1.0508884,0.51303635,-975.34365)"
+     id="layer1">
+    <rect
+       width="373.25137"
+       height="124.75384"
+       x="-0.50507629"
+       y="-0.23301607"
+       transform="translate(0,928.34644)"
+       id="rect2993"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       x="18.062286"
+       y="966.79993"
+       transform="scale(0.94047454,1.063293)"
+       id="text2987"
+       xml:space="preserve"
+       style="font-size:4.65711451px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;font-family:swiss;-inkscape-font-specification:swiss"
+       sodipodi:linespacing="125%"><tspan
+         x="18.062286"
+         y="966.79993"
+         id="tspan2989"
+         style="font-size:104.33391571px;fill:#ff0000;font-family:hvd peace;-inkscape-font-specification:hvd peace">GLUMP</tspan></text>
+  </g>
+</svg>
