@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="37mm"
@@ -17,7 +18,12 @@
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="briefmarke.svg">
   <defs
-     id="defs2" />
+     id="defs2">
+    <color-profile
+       name="ISO-Coated-v2-300---ECI-"
+       xlink:href="/home/andz/.local/share/color/icc/ISOcoated_v2_300_eci.icc"
+       id="color-profile1605" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,7 +32,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4.0905855"
-     inkscape:cx="-21.50486"
+     inkscape:cx="-71.864399"
      inkscape:cy="54.037448"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -38,9 +44,9 @@
      fit-margin-bottom="1"
      fit-margin-right="1"
      inkscape:window-width="1918"
-     inkscape:window-height="1044"
-     inkscape:window-x="1956"
-     inkscape:window-y="28"
+     inkscape:window-height="1018"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata5">

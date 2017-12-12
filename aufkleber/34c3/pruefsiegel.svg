@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="37mm"
@@ -17,7 +18,12 @@
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="pruefsiegel.svg">
   <defs
-     id="defs395" />
+     id="defs395">
+    <color-profile
+       name="ISO-Coated-v2-300---ECI-"
+       xlink:href="/home/andz/.local/share/color/icc/ISOcoated_v2_300_eci.icc"
+       id="color-profile2405" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,7 +32,7 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8284271"
-     inkscape:cx="47.218979"
+     inkscape:cx="-25.61302"
      inkscape:cy="50.38698"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"

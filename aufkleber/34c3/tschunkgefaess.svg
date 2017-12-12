@@ -18,7 +18,12 @@
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="tschunkgefaess.svg">
   <defs
-     id="defs2" />
+     id="defs2">
+    <color-profile
+       name="ISO-Coated-v2-300---ECI-"
+       xlink:href="/home/andz/.local/share/color/icc/ISOcoated_v2_300_eci.icc"
+       id="color-profile3068" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -27,7 +32,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.8668815"
-     inkscape:cx="61.883679"
+     inkscape:cx="8.6107768"
      inkscape:cy="34.289281"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
