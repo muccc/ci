@@ -16,9 +16,9 @@
    version="1.1"
    id="svg8"
    sodipodi:docname="mc3skunk-final.svg"
-   inkscape:export-filename="/home/kili/Daten/ccc/mc3-skunk/µc3skunks.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
+   inkscape:export-filename="/home/andz/workspace/git/muccc/ci/aufkleber/png_export/mc3skunk-final.png"
+   inkscape:export-xdpi="300.1138"
+   inkscape:export-ydpi="300.1138"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
   <defs
      id="defs2" />
@@ -30,8 +30,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="-13.834494"
-     inkscape:cy="111.13489"
+     inkscape:cx="-158.12021"
+     inkscape:cy="108.27775"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -59,6 +59,13 @@
      id="layer1"
      style="display:inline"
      transform="translate(0,-243)">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect824"
+       width="54"
+       height="54"
+       x="0"
+       y="243" />
     <g
        id="g829"
        transform="matrix(0.38935761,0,0,0.38846093,5.0462998,249.30643)">
